@@ -1,0 +1,230 @@
+{
+  "effectNames": [
+    "impact",
+    "smoke",
+    "ice",
+    "slash",
+    "ring",
+    "spark",
+    "poof",
+    "ember"
+  ],
+  "slot": 128,
+  "sharedScale": 0.3372093023255814,
+  "anchor": "center",
+  "crops": {
+    "impact": {
+      "slotCrop": [
+        0,
+        0,
+        314,
+        627
+      ],
+      "alphaCrop": [
+        12,
+        251,
+        314,
+        590
+      ],
+      "size": [
+        102,
+        114
+      ]
+    },
+    "smoke": {
+      "slotCrop": [
+        314,
+        0,
+        627,
+        627
+      ],
+      "alphaCrop": [
+        0,
+        315,
+        297,
+        557
+      ],
+      "size": [
+        100,
+        82
+      ]
+    },
+    "ice": {
+      "slotCrop": [
+        627,
+        0,
+        940,
+        627
+      ],
+      "alphaCrop": [
+        13,
+        249,
+        312,
+        593
+      ],
+      "size": [
+        101,
+        116
+      ]
+    },
+    "slash": {
+      "slotCrop": [
+        940,
+        0,
+        1254,
+        627
+      ],
+      "alphaCrop": [
+        11,
+        293,
+        301,
+        583
+      ],
+      "size": [
+        98,
+        98
+      ]
+    },
+    "ring": {
+      "slotCrop": [
+        0,
+        627,
+        314,
+        1254
+      ],
+      "alphaCrop": [
+        11,
+        80,
+        314,
+        373
+      ],
+      "size": [
+        102,
+        99
+      ]
+    },
+    "spark": {
+      "slotCrop": [
+        314,
+        627,
+        627,
+        1254
+      ],
+      "alphaCrop": [
+        0,
+        85,
+        303,
+        370
+      ],
+      "size": [
+        102,
+        96
+      ]
+    },
+    "poof": {
+      "slotCrop": [
+        627,
+        627,
+        940,
+        1254
+      ],
+      "alphaCrop": [
+        22,
+        77,
+        302,
+        380
+      ],
+      "size": [
+        94,
+        102
+      ]
+    },
+    "ember": {
+      "slotCrop": [
+        940,
+        627,
+        1254,
+        1254
+      ],
+      "alphaCrop": [
+        74,
+        77,
+        278,
+        364
+      ],
+      "size": [
+        69,
+        97
+      ]
+    }
+  },
+  "mascot": {
+    "seedBox": [
+      19,
+      33,
+      109,
+      124
+    ],
+    "sourceBox": [
+      202,
+      275,
+      1045,
+      1107
+    ],
+    "slot": [
+      128,
+      128
+    ],
+    "anchor": "seed bottom-center"
+  },
+  "sources": {
+    "fx-source.png": "338891b9388b0f8502748e61b1a03a2ac68169d3b83c559472e93519db74add7",
+    "orange-source.png": "3e1fc2656d797e3c85a3328684ff4325bfd18823285626de22f25beecf501031"
+  },
+  "files": {
+    "effects.json": {
+      "bytes": 2978,
+      "sha256": "c43895ee3580904cafa14e91cd3a4416bc48983216d0c7e59f8a8b7ef7df43c8"
+    },
+    "effects.png": {
+      "bytes": 128250,
+      "sha256": "cc2c6bb4f2e0674c1a99f155f857347f100391cda9fb8ab6d3f8e93b07783b29"
+    },
+    "ember.png": {
+      "bytes": 10603,
+      "sha256": "b8dfa3f70255ec58abc0c45315b562983a508abb42c5d91f469f11eb06671875"
+    },
+    "ice.png": {
+      "bytes": 20168,
+      "sha256": "5c08573abf88ed7e08c0918da802a750f2c577eab4934ce4a9f06cba4a45afee"
+    },
+    "impact.png": {
+      "bytes": 20825,
+      "sha256": "9697740ab6dacb13e860bdded3f076c76c0c795c3224069f0f5275f1671ca527"
+    },
+    "mascot-orange.png": {
+      "bytes": 16923,
+      "sha256": "dba27e93d3fd28d6f22cfc9c26885784868ada2478a4c761740db03e94b08759"
+    },
+    "poof.png": {
+      "bytes": 15591,
+      "sha256": "395911a4be4ff3f7974f4d27398becde394d9354cefbfb88eda18850906eff81"
+    },
+    "ring.png": {
+      "bytes": 17836,
+      "sha256": "05723d8b582c4babb16aeced1df51ffe7c9a5d8cafdbd3b2668c835373b24de4"
+    },
+    "slash.png": {
+      "bytes": 15291,
+      "sha256": "ff8d0ded17ff7e9e973854d0e762998fbefa273ddcb67140a7b488832e6d3383"
+    },
+    "smoke.png": {
+      "bytes": 12846,
+      "sha256": "72d499a3eaf2e2aa655037ca808a9a0add50586a72f38ded94438fc96f8c0d51"
+    },
+    "spark.png": {
+      "bytes": 13023,
+      "sha256": "7d9cce386f711b4a03f9b593f9bcc26dca41b057d62b667a2a9d9f3fcff667dd"
+    }
+  }
+}

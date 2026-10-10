@@ -1,0 +1,64 @@
+{
+  "tool": "built-in image_gen",
+  "titles": {
+    "victory-title": "战斗胜利",
+    "defeat-title": "防线失守"
+  },
+  "files": {
+    "victory-title.webp": {
+      "source": "victory-title-source.png",
+      "sourceSize": [
+        1966,
+        800
+      ],
+      "alphaCrop": [
+        96,
+        126,
+        1876,
+        634
+      ],
+      "size": [
+        640,
+        183
+      ],
+      "bytes": 110594,
+      "sha256": "d52776e826f979c90a0c8239e860785b5d40dedd3025c15d0a5833633ef357d6",
+      "sourceSha256": "b11e1f3646f830612344ed63a4c540aa2f163042b50c3c10f0728394b724606c"
+    },
+    "defeat-title.webp": {
+      "source": "defeat-title-source.png",
+      "sourceSize": [
+        1977,
+        795
+      ],
+      "alphaCrop": [
+        103,
+        123,
+        1878,
+        638
+      ],
+      "size": [
+        640,
+        186
+      ],
+      "bytes": 126266,
+      "sha256": "ebfd0e22cf291116629fee27d9284176f34a3e68c6d630f859fd455f188c3abe",
+      "sourceSha256": "542ba35b81e2ac16dc2d6b8d89a4e81c6dd4ee4700a23040ee37fa0c586916e0"
+    },
+    "menu-background.webp": {
+      "source": "menu-background-source.png",
+      "sourceSize": [
+        941,
+        1672
+      ],
+      "alphaCrop": null,
+      "size": [
+        941,
+        1672
+      ],
+      "bytes": 200468,
+      "sha256": "66ac9b315a81398f615b94bb55e6448bc4d5b4b679b68ff0251d2c59c2a14f0b",
+      "sourceSha256": "365b401dbfcef1effabea8681dc5028fe88c46ce14e4cf1b4bd302db6a25d425"
+    }
+  }
+}

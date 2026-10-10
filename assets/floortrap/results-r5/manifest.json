@@ -1,0 +1,29 @@
+{
+  "generator": "built-in image_gen",
+  "slot": [
+    720,
+    480
+  ],
+  "anchor": "shared canvas center",
+  "titleCenter": [
+    0.5,
+    0.67
+  ],
+  "stars": "Decorative artwork only; no rating or scoring system.",
+  "files": {
+    "victory.webp": {
+      "bytes": 92278,
+      "sha256": "5b8dd9fa262259319a669b8a8d2bc7b5d61a3bada6bcde84c82fe479f47433aa",
+      "source": "victory-source.png",
+      "sourceSha256": "b8a7e09bf67c612f2c29de8a86e21db9f413395bdf3f85f96df9879b293f7c4c",
+      "transparentPixels": 180820
+    },
+    "defeat.webp": {
+      "bytes": 58476,
+      "sha256": "90b10860e057645ee7f342690289ae1296bd6a3df5b0eaa8652bf41409fc1717",
+      "source": "defeat-source.png",
+      "sourceSha256": "fb8c1a48c6ac0c00ede294ed83634ca64ff12e6f314e1cc5bafe5ce9c5213b0c",
+      "transparentPixels": 190187
+    }
+  }
+}

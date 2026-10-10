@@ -1,0 +1,155 @@
+{
+  "icons": [
+    "play",
+    "book",
+    "swords",
+    "settings",
+    "trophy",
+    "chart",
+    "crown",
+    "pause",
+    "undo",
+    "home",
+    "back",
+    "sound",
+    "muted",
+    "lock",
+    "info",
+    "frost",
+    "wrench",
+    "check"
+  ],
+  "iconSlot": 128,
+  "sharedScale": 0.40298507462686567,
+  "anchor": "center",
+  "iconRows": [
+    [
+      0,
+      335
+    ],
+    [
+      335,
+      590
+    ],
+    [
+      590,
+      887
+    ]
+  ],
+  "frameCropBoxes": {
+    "panel": [
+      130,
+      45,
+      705,
+      585
+    ],
+    "paper": [
+      830,
+      45,
+      1340,
+      580
+    ],
+    "title": [
+      100,
+      710,
+      875,
+      975
+    ],
+    "square": [
+      905,
+      605,
+      1350,
+      1025
+    ]
+  },
+  "frameSlices": {
+    "panel": 130,
+    "paper": 130,
+    "square": 100
+  },
+  "plates": {
+    "gold": {
+      "size": [
+        311,
+        149
+      ],
+      "cap": 68,
+      "method": "full-height three-slice; fixed aspect ratio end caps"
+    },
+    "gray": {
+      "size": [
+        309,
+        149
+      ],
+      "cap": 68,
+      "method": "full-height three-slice; fixed aspect ratio end caps"
+    },
+    "teal": {
+      "size": [
+        311,
+        148
+      ],
+      "cap": 68,
+      "method": "full-height three-slice; fixed aspect ratio end caps"
+    },
+    "red": {
+      "size": [
+        313,
+        149
+      ],
+      "cap": 68,
+      "method": "full-height three-slice; fixed aspect ratio end caps"
+    },
+    "title": {
+      "size": [
+        744,
+        215
+      ],
+      "cap": 100,
+      "method": "full-height three-slice; fixed aspect ratio end caps"
+    }
+  },
+  "sourceHashes": {
+    "frame-sheet.png": "4664148213ec9985a81f73282745c96c870a2cf7b43a0a7ff9d379669ad924a4",
+    "icon-sheet.png": "88eaa3b82b80a527e6f232c24e163d3059a9e1608a490ab4180f8ba25a4dc01e"
+  },
+  "files": {
+    "back.png": "24f4ae14392c79761f2b6490abd063a231c9caedd067007d747bb0b78bdb4925",
+    "book.png": "df0bc1f96f7ce9e7cc0ad5e84eb358e3ff15290bd06a7346a1deefe96b69a144",
+    "chart.png": "6afb2f5c68004f8421b6c2521769d4711e894dcd38c8b751c5f85aaa36def6ca",
+    "check.png": "50c38a445ad580e5bcc1c7bd9830c5fb15852b8125422c64da12066f32ee53be",
+    "crown.png": "acf324eea1ba9a64be44cc97915b544d1196bdcd2cb95d48cf02792f340f311d",
+    "frost.png": "0db384f72b4c87ab6824eed160a1946a7254213f3b85f48160ce1e7a173976d6",
+    "gold-center.png": "d544a42b8447be24d26a6548a66378088cd69cfa87d975b1697b516837ee5171",
+    "gold-left.png": "95303311a801dbd65f32623addc6c9d27ac6791d532fb3a79f7639688d2a923f",
+    "gold-right.png": "8b3deef1e64cf9b2e8dd27d00cbf97844c8566d198a72128fa8d63c9b92596fc",
+    "gray-center.png": "b06630cf44b1d5e290a596f6a4a30c9b8dae2fa4371c0d0e77a27574c2da6150",
+    "gray-left.png": "d2127112ef83389335961c4c5c6f5e7223e133048fd8670550f21092b5fb1110",
+    "gray-right.png": "eb6c3645bb5e7f9f7b8afde7357d5212f5cddc1c6a71ff62a9ca202b3df9772a",
+    "home.png": "bee9af33515625a9883176783eb348269491c2cb795cdf835a5b2c7993e67a99",
+    "info.png": "9996d6cb26cd0abc78046b10aa14782ccb6a8586d811eae6dd067e31e54f1ab3",
+    "lock.png": "cb8c98fb9d5fc69aa44a13d27cf6cf34a5bd88cd3cfa7bcf0c686df604f3ea90",
+    "muted.png": "470dc61218820e60aa51005f1362aef90d8831debf29b9091dbf80bb40eaa7fc",
+    "panel.png": "1db1f4728929c58fc16c7cf13933dd84d7f50122ff5c6a65b07bc4f275120eb9",
+    "paper.png": "1e5aa601ad4930e503818a8eff77e4b693b5ff75ebe578eb1ff8e8cac9d4736f",
+    "pause.png": "8d230276768d2f3fb5afd09eabdb81bc584c7810ba7be9c68600e0626c1f4ba2",
+    "play.png": "933353b255d7d337c294b7f822cf5c94dea1bac66a97334069b23177987f38e7",
+    "red-center.png": "ba14991c8edd1177308b6d544f1d90ecaeb1e8afadf12b16477ca3e9c5ba07f7",
+    "red-left.png": "eb7dd9e74ac445bae7fd7d7ac3630ff5644ea077b0109e42d5cbaec32eb3e001",
+    "red-right.png": "a89598cc5bc6d5b388daa3ef6fdcee48f40008f921753eb26a60219de03c5e76",
+    "settings.png": "f72f227e78db699fcf1d1a88af1e8d3674b8b7a60d3fbfb565979579362e2b6c",
+    "sound.png": "151cddddc41a3826871cdf020a319699474339b1d7342613ee1ba04f5c827417",
+    "square.png": "902b8af234f81311ab2cd44cab757863f2db0c8dd43d2893b9adafce691e04b8",
+    "swords.png": "4d5fd49efb14454158d6217c43d163af705c8d6fcfeb6f145614e993fb2417d0",
+    "teal-center.png": "2d86492c2664eea056f2a95e9fdd7ef100647009802e730fc3aaaa83480f5c6a",
+    "teal-left.png": "e2ee2d5abd7dd13b3b13f34b1ebf60777d21c71d013c1cc575d832b5fe8bd295",
+    "teal-right.png": "d82d1ce27887d9491df8ba422ead45e6e31ba88a7cb920f9a8b1ff1cb4c27872",
+    "title-center.png": "b90de8fbf6da706cac61df22ca2ae74113897deee6f93c2864298ae1eafaf918",
+    "title-left.png": "084a73f9f281242495a3cf2eb9d2f03a061e97c8ddb8d00b3b2083753d9979bc",
+    "title-right.png": "8f4542eb4d20032ee035d8151dba2d09de739528be1fd8aa7b03993cb9c3e1bb",
+    "title.png": "d750c386451ba8dd8a0440b5497259c2052d8ae24d3044bbcb0f20cba5f8ee0f",
+    "trophy.png": "36dc195c081c4a41fe7077abd4f8885c8eeeb70200dc2eed455459d78850b987",
+    "undo.png": "259947bb213a534bac9a0bdeecc3f100e2602899abe426d3f96256c8e79a12f3",
+    "wrench.png": "82278f2190bad8db0164accd9a3631d915c2e9a2eb8e2ef29fbc8ca19df90fe0"
+  }
+}
